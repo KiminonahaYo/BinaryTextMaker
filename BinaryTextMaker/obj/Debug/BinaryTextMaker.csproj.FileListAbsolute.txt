@@ -1,0 +1,11 @@
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\bin\Debug\BinaryTextMaker.exe.config
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\bin\Debug\BinaryTextMaker.exe
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\bin\Debug\BinaryTextMaker.pdb
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.csprojResolveAssemblyReference.cache
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.FrmMain.resources
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.FrmWait.resources
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.Properties.Resources.resources
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.csproj.GenerateResource.Cache
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.csproj.CoreCompileInputs.cache
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.exe
+C:\Users\よっしー\source\repos\BinaryTextMaker\BinaryTextMaker\obj\Debug\BinaryTextMaker.pdb

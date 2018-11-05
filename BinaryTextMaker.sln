@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTextMaker", "BinaryTextMaker\BinaryTextMaker.csproj", "{60A7F73B-C24F-496C-A1E0-FA473CE833CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E33B516F-7BE3-424B-92ED-13FB1562A878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A7F73B-C24F-496C-A1E0-FA473CE833CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A7F73B-C24F-496C-A1E0-FA473CE833CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A7F73B-C24F-496C-A1E0-FA473CE833CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A7F73B-C24F-496C-A1E0-FA473CE833CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33B516F-7BE3-424B-92ED-13FB1562A878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B516F-7BE3-424B-92ED-13FB1562A878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B516F-7BE3-424B-92ED-13FB1562A878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B516F-7BE3-424B-92ED-13FB1562A878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0F4E04-013A-4DE4-B4AB-F511ED676AD8}
+	EndGlobalSection
+EndGlobal
